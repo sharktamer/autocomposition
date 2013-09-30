@@ -12,5 +12,8 @@
 *.la
 *.a
 
+# Compiled binaries
+*.exe
+
 # Resultant midis
 *.mid
